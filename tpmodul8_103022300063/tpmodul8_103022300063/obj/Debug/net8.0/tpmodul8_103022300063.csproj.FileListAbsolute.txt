@@ -1,0 +1,14 @@
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\bin\Debug\net8.0\tpmodul8_103022300063.exe
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\bin\Debug\net8.0\tpmodul8_103022300063.deps.json
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\bin\Debug\net8.0\tpmodul8_103022300063.runtimeconfig.json
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\bin\Debug\net8.0\tpmodul8_103022300063.dll
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\bin\Debug\net8.0\tpmodul8_103022300063.pdb
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\obj\Debug\net8.0\tpmodul8_103022300063.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\obj\Debug\net8.0\tpmodul8_103022300063.AssemblyInfoInputs.cache
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\obj\Debug\net8.0\tpmodul8_103022300063.AssemblyInfo.cs
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\obj\Debug\net8.0\tpmodul8_103022300063.csproj.CoreCompileInputs.cache
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\obj\Debug\net8.0\tpmodul8_103022300063.dll
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\obj\Debug\net8.0\refint\tpmodul8_103022300063.dll
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\obj\Debug\net8.0\tpmodul8_103022300063.pdb
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\obj\Debug\net8.0\tpmodul8_103022300063.genruntimeconfig.cache
+D:\C#\tpmodul8_103022300063\tpmodul8_103022300063\obj\Debug\net8.0\ref\tpmodul8_103022300063.dll
